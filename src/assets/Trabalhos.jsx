@@ -1,0 +1,89 @@
+function Trabalhos() {
+    return (
+        <div>
+            <h1 className="text-center mb-4">Experiências de Trabalho</h1>
+
+            <div className="border-bottom pb-2 mb-4">
+
+                <div className="mb-4">
+                    <h4>Estrela Lojas</h4>
+                    <p className="text-muted mb-1">nov de 2025 - dez de 2025 · 2 meses</p>
+                    <p>Gerenciamento de estoque de calçados, auxílio na loja, estocagem, envio e recebimento de cargas. Vaga
+                        temporária
+                        de final de ano.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>EletroBidu Energia Solar</h4>
+                    <p className="text-muted mb-1">set de 2025 - out de 2025 · 2 meses</p>
+                    <p>Venda de painéis solares por meio de leads e indicações, relacionamento com clientes e consultoria em vendas
+                        técnicas.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Conceito</h4>
+                    <p className="text-muted mb-1">out de 2024 - mai de 2025 · 8 meses</p>
+                    <p>Colagem e limagem de fita de borda, montagem e embalagem de móveis, apoio em entregas, limpeza e organização do
+                        ambiente.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Campanha Laerte Prefeito</h4>
+                    <p className="text-muted mb-1">ago de 2024 - out de 2024 · 3 meses</p>
+                    <p>Distribuição de panfletos, atuação com bandeiras em pontos estratégicos e participação em carreatas.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Surfland Brasil</h4>
+                    <p className="text-muted mb-1">jul de 2021 - fev de 2022 · 8 meses</p>
+                    <p>Venda por telefone e videochamada para leads cadastrados no sistema.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Decathlon Brasil</h4>
+                    <p className="text-muted mb-1">dez de 2018 - dez de 2020 · 2 anos 1 mês</p>
+                    <p>Abastecimento e organização da seção, operação de caixa, análise econômica e definição de exposição de
+                        produtos.
+                    </p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Liga Paulista Futsal</h4>
+                    <p className="text-muted mb-1">mar de 2016 - dez de 2016 · 10 meses</p>
+                    <p>Organização de campeonatos, jogos televisionados e análise tática de equipes adversárias.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>EEFUSP Júnior Consultoria</h4>
+                    <p className="text-muted mb-1">ago de 2015 - ago de 2016 · 1 ano 1 mês</p>
+                    <p>Planejamento de eventos esportivos, palestras e consultoria para empresas do setor.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>CEU Butantã</h4>
+                    <p className="text-muted mb-1">jun de 2016 · 1 mês</p>
+                    <p>Vistoria e análise das atividades realizadas no local.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Clube da Comunidade Pequeninos do Jockey</h4>
+                    <p className="text-muted mb-1">ago de 2015 - dez de 2015 · 5 meses</p>
+                    <p>Professor responsável pelo sub-7 e assistente do sub-15 e feminino.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Escola de Educação Física e Esporte da USP</h4>
+                    <p className="text-muted mb-1">ago de 2015 - dez de 2015 · 5 meses</p>
+                    <p>Aulas de ginástica artística para meninas de 7 a 13 anos e apoio no planejamento.</p>
+                </div>
+
+                <div className="mb-4">
+                    <h4>Escola de Educação Física e Esporte da USP</h4>
+                    <p className="text-muted mb-1">ago de 2013 - dez de 2013 · 5 meses</p>
+                    <p>Aulas de educação física para adultos com participação no planejamento e condução.</p>
+                </div>
+            </div>
+        </div>
+    );
+}
+export default Trabalhos;
